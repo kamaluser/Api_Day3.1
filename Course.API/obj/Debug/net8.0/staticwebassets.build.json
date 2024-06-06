@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "fGsgK2NcFv4qQtyG+TGIDDPTVYDHOnkk1cjiStgTs4M=",
+  "Source": "Course.API",
+  "BasePath": "_content/Course.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Course.API\\wwwroot",
+      "Source": "Course.API",
+      "ContentRoot": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.API\\wwwroot\\",
+      "BasePath": "_content/Course.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.API\\wwwroot\\uploads\\student\\08e734e0-2f9c-450c-acd7-b7dff6b919ba_teacher1.jpg",
+      "SourceId": "Course.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.API\\wwwroot\\",
+      "BasePath": "_content/Course.API",
+      "RelativePath": "uploads/student/08e734e0-2f9c-450c-acd7-b7dff6b919ba_teacher1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\student\\08e734e0-2f9c-450c-acd7-b7dff6b919ba_teacher1.jpg"
+    }
+  ]
+}
